@@ -1,6 +1,6 @@
 # Forum application built with Pages Functions, Workers KV and Durable Objects
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://github.com/PencilNavigator/workers-forum)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/PencilNavigator/workers-forum)
 
 ## Overview
 
